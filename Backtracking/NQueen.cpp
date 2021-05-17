@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define size 4
+
 void printMatrix(bool **matrix)
 {
     for (int i = 0; i < size; i++)
